@@ -1,0 +1,36 @@
+body{
+    background-color: wheat;
+}
+
+img{
+    width: 216px;
+}
+h1{
+    font-family: roboto;
+    
+    
+}
+
+ul li{
+    list-style: decimal;
+}
+
+ul li a{
+    text-decoration: none;
+    color: cadetblue
+}
+
+#art{
+    display: block;
+    width: 100%;
+}
+#art1,#art2{
+    width: 50%;
+}
+#art1,#art2 p{
+    font-size: 24px;
+}
+
+#link1{
+    font-size: 36px;
+}
